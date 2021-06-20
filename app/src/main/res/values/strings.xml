@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Basic Banking App</string>
+    <string name="Basic_Banking_App">Basic Banking App</string>
+    <string name="Banking_System_Application">Banking System Application</string>
+    <string name="View_Users">View Users</string>
+    <string name="View_Transactions">View Transactions</string>
+    <string name="Designed_By">Designed by Heet</string>
+    <string name="User_Name">User Name</string>
+    <string name="Currency">Rs. </string>
+    <string name="Price">5000</string>
+    <string name="Transfer_Money">Transfer Money</string>
+
+
+    <string name="User_Data_Name">User Name</string>
+    <string name="User_Data_Account">Account No:</string>
+    <string name="User_Data_Email">Email ID:</string>
+    <string name="User_Data_IFSC">IFSC Code:</string>
+    <string name="User_Data_Phone">Phone No:</string>
+    <string name="User_Data_Balance">Balance:</string>
+
+
+    <string name="User_Data_Account1">1234</string>
+    <string name="User_Data_Email1">heet@gmail.com</string>
+    <string name="User_Data_IFSC1">ABHY0065062</string>
+    <string name="User_Data_Phone1">9870221331</string>
+    <string name="User_Data_Balance1">5000</string>
+
+
+    <string name="Select_User_Transfer_Money">Select User To Transfer Money</string>
+
+
+    <string name="No_Transactions_Performed">No Transactions Performed Till Now</string>
+
+
+    <string name="Not_Selected">Not Selected</string>
+    <string name="From">From</string>
+    <string name="Amount">Amount</string>
+    <string name="To">To</string>
+    <string name="Transaction_Cancelled">Transaction Cancelled</string>
+    <string name="Not_Set">Not Set</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+</resources>
